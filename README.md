@@ -1,1 +1,2 @@
-Crie um progra x PARA y departamento
+ATIVIDADE 0001:
+ESCREVA UM PROGRAMA QUE IMPRIMA NA TELA "OlA mundo"
